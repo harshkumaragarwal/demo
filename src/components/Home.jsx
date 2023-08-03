@@ -6,12 +6,12 @@ export function Home()
 {
  return (
    <>
-     <NavScrollExample />
+     {/* <NavScrollExample /> */}
      <HeaderAndFooterExample />
      <IndividualIntervalsExample />
 
      <HeaderAndFooterExample />
-     <Footer />
+     {/* <Footer /> */}
    </>
  );
 }
